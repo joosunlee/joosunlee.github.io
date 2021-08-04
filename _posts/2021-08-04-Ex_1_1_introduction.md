@@ -1,3 +1,11 @@
+---
+layout: single
+title:  "실습 예제입니다.!"
+---
+
+
+
+
 # Ex 1-1: Introduction
 텐서플로우 2.x을 이용한 인공지능 실습
 
