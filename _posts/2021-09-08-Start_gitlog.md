@@ -1,3 +1,12 @@
+---
+layout:  single
+title:  "깃 블로그 만들기!"
+---
+
+# 2021.08.
+
+RRT Algorithm & Python Coding.
+
 -깃 블로그 만들기
 1. 테마 고르기 (https://github.com/topics/jekyll-theme)
  ex.minimal --> fork (내 깃 계정에 복사가 완성 된다.)
