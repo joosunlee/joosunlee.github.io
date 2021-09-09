@@ -1,6 +1,6 @@
 ---
 layout:  single
-title:  "깃 블로그 만들기!"
+title:  "Start GitHub Blog"
 ---
 
 # 2021.08.
